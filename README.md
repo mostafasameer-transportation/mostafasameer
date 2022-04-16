@@ -1,14 +1,4 @@
-- 👋 Hi, I’m @mostafasameer-transportation
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-mostafasameer-transportation/mostafasameer-transportation is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-My name is Mostafa Sameer and I am from Bangladesh. I have completed my bachelors in Civil engineering from one of the best engineering schools in our country. My CGPA was 3.158 out of 4.00 in my undergrad and my Masters in Business Administration was 2.99 out of 4.00. My major was in Transportation Engineering in my Undergrad (2016). 
+Hi! My name is Mostafa Sameer and I am from Bangladesh. I have completed my bachelors in Civil engineering from one of the best engineering schools in our country. My CGPA was 3.158 out of 4.00 in my undergrad and my Masters in Business Administration was 2.99 out of 4.00. My major was in Transportation Engineering in my Undergrad (2016). 
 
  
 
