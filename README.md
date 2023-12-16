@@ -1,10 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mostafa Sameer
+Hi ! My name is Mostafa Sameer
 ======================================================================================================================================
 
 Ph.D. student of Emerging Mobility Lab (Wayne State University)
 ---------------------------------------------------------------
 
-I am learning coding and have been passionate about it.
+I am learning to code and have been passionate about it.
 
 * 🌍  I'm based in Michigan
 * 🖥️  See my portfolio at [Sameer's Portfolio](http://sites.google.com/site/mostafasameeraustprofile/)
