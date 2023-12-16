@@ -34,10 +34,10 @@ src="https://img.shields.io/twitter/follow/mostafasameer01?logo=twitter&style=fo
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/mostafasameer-transportation"><img src="https://github-readme-stats.vercel.app/api?username=mostafasameer-transportation&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=f97316&icon_color=0891b2&bg_color=ffffff&hide_border=true&show_icons=true" alt="mostafasameer-transportation's GitHub stats" /></a>
+<a href="http://www.github.com/mostafasameer-transportation"><img src="https://github-readme-stats.vercel.app/api?username=mostafasameer-transportation&show_icons=true&hide=&count_private=true&title_color=444e59&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&show_icons=true" alt="mostafasameer-transportation's GitHub stats" /></a>
 
-<a href="http://www.github.com/mostafasameer-transportation"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mostafasameer-transportation&stroke=f97316&background=ffffff&ring=a855f7&fire=a855f7&currStreakNum=f97316&currStreakLabel=a855f7&sideNums=f97316&sideLabels=f97316&dates=f97316&hide_border=true" /></a>
+<a href="http://www.github.com/mostafasameer-transportation"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mostafasameer-transportation&stroke=000000&background=ffffff&ring=444e59&fire=444e59&currStreakNum=000000&currStreakLabel=444e59&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
 
-<a href="http://www.github.com/mostafasameer-transportation"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=mostafasameer-transportation&bg_color=ffffff&color=f97316&line=0891b2&point=f97316&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/mostafasameer-transportation"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=mostafasameer-transportation&bg_color=ffffff&color=000000&line=0891b2&point=000000&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/mostafasameer-transportation" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafasameer-transportation&langs_count=10&title_color=a855f7&text_color=f97316&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/mostafasameer-transportation" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafasameer-transportation&langs_count=10&title_color=444e59&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
