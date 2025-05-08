@@ -1,17 +1,17 @@
 Hi ! My name is Mostafa Sameer
 ======================================================================================================================================
 
-Ph.D. student of Emerging Mobility Lab (Wayne State University)
+Ph.D. student of Digital Twin Lab (Florida International University)
 ---------------------------------------------------------------
 
 I am learning to code and have been passionate about it.
 
-* 🌍  I'm based in Michigan
+* 🌍  I'm based in Miami, FL.
 * 🖥️  See my portfolio at [Sameer's Portfolio](http://sites.google.com/site/mostafasameeraustprofile/)
 * ✉️  You can contact me at [mostafasameer.aust@gmail.com](mailto:mostafasameer.aust@gmail.com)
-* 🚀  I'm currently working on [Graduate Teaching Assistant](http://www.xiaodongqian.com/team)
-* 🧠  I'm learning C++, Python, CARLA, ML (Tools), Numpy, Pandas
-* 🤝  I'm open to collaborating on CARLA, Simulation Development
+* 🚀  I'm currently working on [Graduate Research Assistant]
+* 🧠  I'm learning C++, Python, ML (Tools), Numpy, Pandas
+* 🤝  I'm open to collaborating on Natural Hazards, Flood Prediction on Florida Coast.
 * ⚡  I am a traveler and I love exploring <3
 
 <a href="https://www.x.com/mostafasameer01" target="_blank" rel="noreferrer"><img
