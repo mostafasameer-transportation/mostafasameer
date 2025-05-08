@@ -4,7 +4,12 @@ Hi ! My name is Mostafa Sameer
 Ph.D. student of Digital Twin Lab (Florida International University)
 ---------------------------------------------------------------
 
-I am learning to code and have been passionate about it.
+• Conducted research on wind-driven rain intrusion through sliding glass door systems during hurricanes, collaborating with respective peers from FIU & UF. I intend to finalize a manuscript regarding the influence of modeling resolution on flood risk analysis results and submit it to a peer-reviewed journal in structural or hazard engineering.
+• Analyzed building codes and standards with FIU, Florida DBPR, and Florida Building Commission to enhance safety measures.
+• Provided teaching support by grading assignments, preparing materials, and assisting in undergraduate courses.
+
+Advisor: Dr. Omar M. Nofal,
+Assistant Professor, Department of Civil and Environmental Engineering, Florida International University.
 
 * 🌍  I'm based in Miami, FL.
 * 🖥️  See my portfolio at [Sameer's Portfolio](http://sites.google.com/site/mostafasameeraustprofile/)
